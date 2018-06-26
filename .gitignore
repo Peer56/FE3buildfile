@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Rom files
+*.fig
+*.nlz
+
 # Object files
 *.o
 *.ko
