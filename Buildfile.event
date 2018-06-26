@@ -1,0 +1,3 @@
+#include eastdlib.event
+#include TranslationPatch.event
+#include "Tables/Table Installer.event"

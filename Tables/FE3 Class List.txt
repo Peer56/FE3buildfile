@@ -1,0 +1,45 @@
+Lord
+Fighter
+Soldier
+Cavalier
+Paladin
+Dismounted Knight (Male)
+Dismounted Knight (Female)
+Armor Knight
+General
+Pegasus Knight
+Dracoknight
+Hunter
+Sniper
+Archer
+Horseman
+Mamkute (Male)
+Fire Dragon
+Mercenary
+Hero
+Thief
+Commando
+Dancer
+Sister
+Mage (Female)
+Priest (Female)
+Mage (Male)
+Priest (Male)
+Sage
+Mamkute (Female)
+Bandit
+Pirate
+Barbarian
+Berserker
+Dark Knight
+Dark Mage
+Shooter
+Emperor
+Guardian
+Ice Dragon
+Sea Dragon
+Flying Dragon
+Earth Dragon
+Dark Dragon
+Divine Dragon
+Demon Dragon
