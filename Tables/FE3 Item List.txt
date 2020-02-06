@@ -2,25 +2,25 @@ Iron Sword
 Steel Sword
 Silver Sword
 Rapier
-Killer Sword
+Killing Edge
 Devil Sword
 Broken Sword
 Master Sword
-Lady Sword
-Thunder Sword
-Miracle Sword
+Ladyblade
+Levin Sword
+Mercurius
 Falchion
-Armor Killer
-Dragon Killer
-Sword Killer
+Armorslayer
+Wyrmslayer
+Swordslayer
 Iron Lance
 Steel Lance
 Silver Lance
-Knight Killer
-Hand Spear
+Ridersbane
+Javelin
 Broken Lance
 Killer Lance
-Thin Lance
+Slim Lance
 Gradivus
 Iron Bow
 Broken Bow
@@ -34,17 +34,17 @@ Hand Axe
 Silver Axe
 Devil Axe
 Broken Axe
-Thunder Bolt
-Quick Rain
-Stone Hedge
-Fire Gun
-Elephant
+Thunderbolt
+Arrowspate
+Stonehoist
+Hoistflamme
+Pachyderm
 Fire Breath
 Ice Breath
 Dark Breath
-Mist Breath
-Fire Book
-Thunder Book
+Fog Breath
+Fire
+Thunder
 Blizzard
 Shaver
 Elfire
@@ -58,16 +58,16 @@ Dulam
 Resire
 Meteor
 Worm
-Earth Orb
-Shield of Seals
-Dark Orb
+Geosphere
+Binding Shield
+Darksphere
 Fire Emblem
 Heal
 Recover
 Physic
 Mend
 Warp
-Magic Shield
+Barrier
 Hammerne
 Fortify
 Silence
@@ -77,27 +77,27 @@ Unlock
 Thief Staff
 Watch Staff
 Again Staff
-Fire Dragon Stone
+Fire Dragonstone
 Aum
-Ice Dragon Stone
-Flying Dragon Stone
-Earth Dragon Stone
-Dark Dragon Stone
-God Dragon Stone
-Magic Dragon Stones
+Ice Dragonstone
+Flying Dragonstone
+Earth Dragonstone
+Dark Dragonstone
+God Dragonstone
+Magic Dragonstones
 Vulnerary
 Door Key
 Silver Key
 Bridge Key
-Treasure Key
-Power Ring
-Dragon Shield
+Chest Key
+Energy Ring
+Dracoshield
 Secret Book
 Speed Ring
 Talisman
 Angelic Robe
 Goddess Icon
-Manual
+Arms Scroll
 Boots
 Pure Water
 Knight Crest
@@ -105,9 +105,9 @@ Hero Crest
 Guiding Ring
 Elysian Whip
 Orion's Bolt
-Earth Orb
-Life Orb
-Iote Shield
+Geosphere
+Lifesphere
+Iote's Shield
 Aquarius Orb
 Pisces Orb
 Aries Orb
@@ -123,5 +123,5 @@ Capricorn Orb
 Aum Fragment
 Silver Card
 Member Card
-Light Orb
-Star Orb
+Lightsphere
+Starsphere
