@@ -13,33 +13,33 @@ Hunter
 Sniper
 Archer
 Horseman
-Mamkute (Male)
+Manakete (Male)
 Fire Dragon
 Mercenary
 Hero
 Thief
-Commando
+Freelancer
 Dancer
-Sister
+Cleric
 Mage (Female)
-Priest (Female)
+Bishop (Female)
 Mage (Male)
-Priest (Male)
+Bishop (Male)
 Sage
-Mamkute (Female)
-Bandit
+Manakete (Female)
+Brigand
 Pirate
 Barbarian
 Berserker
 Dark Knight
 Dark Mage
-Shooter
+Ballistician
 Emperor
 Guardian
 Ice Dragon
 Sea Dragon
-Flying Dragon
+Wyvern
 Earth Dragon
-Dark Dragon
+Shadow Dragon
 Divine Dragon
-Demon Dragon
+Mage Dragon
